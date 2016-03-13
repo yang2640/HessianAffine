@@ -1,3 +1,9 @@
+Installation: 
+(1) This project depends on the vlfeat library, install vlfeat, especially vlfeat.so
+(2) Modify on my Makefile (paths) to compile
+(3) refer to the command usage for help
+
+
 Hessian Affine feature detector + sift descriptor.
 
 Available options
