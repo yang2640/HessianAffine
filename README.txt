@@ -1,4 +1,4 @@
-siane feature detector + sift descriptor.
+Hessian Affine feature detector + sift descriptor.
 
 Available options
 -----------------

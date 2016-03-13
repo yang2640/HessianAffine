@@ -51,7 +51,7 @@ int main(int argc, char *argv[]) {
     
     /* read in command line options */
     ArgvParser cmd; 
-    cmd.setIntroductoryDescription("hessiane feature detector + sift descriptor.");
+    cmd.setIntroductoryDescription("Hessian affine feature detector + sift descriptor.");
 
     cmd.addErrorCode(0, "Success");
     cmd.addErrorCode(-1, "Error");
